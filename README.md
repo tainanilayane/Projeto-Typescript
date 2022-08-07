@@ -87,4 +87,4 @@ Caso queira fazer testes usando html é só alterar o index.html.
     4. Existem outras regras e explicações mais elaboradas na documentação oficial (https://www.typescriptlang.org/tsconfig)
    
 ## Sobre colaboração 
-Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. Também podem tirar dúvidas comigo via comentário.
+Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. 
